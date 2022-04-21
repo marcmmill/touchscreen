@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<data>
+	<building id="T">
+		<floor id="1f">
+			<image>t1f.png</image>
+		</floor>
+		<floor id="2f">
+			<image>t2f.png</image>
+		</floor>
+	</building>
+	<building id="CA">
+		<floor id="1f">
+			<image>ca1f.png</image>
+		</floor>
+		<floor id="2f">
+			<image>ca2f.png</image>
+		</floor>
+	</building>
+</data>

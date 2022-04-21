@@ -1,0 +1,11 @@
+WEB APPLICATION
+
+1. Create an administrator Google account
+2. Enable Google Calendar API
+3. Create a service account under the administrator Google account
+4. Download the credential.json from the service account (will have a name silimar to the service account name Ex. cobm-test-1-3af4d065b08e.json)
+5. Rename the JSON to "service.json"
+6. Move the JSON to the directory of the web application
+7. (Optional) If you are running the program on Visual Studios 2019, enter the properties of service.json and set "Copy to Output Directory" to "Copy always"
+8. Add a RoomData.xml to the content folder.  It should contain data for rooms to be displayed.
+9. (Optional) Upload to a hosted server to allow non-local users to access the website

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<data>
+	<building id="T">
+		<floor id="1f">
+			<image>t1f.png</image>
+			<room id="T101">
+        <calendarId>bjjdhs0b9av85ifrtlbdkvr8fs@group.calendar.google.com</calendarId>
+				<xPos>21</xPos>
+				<yPos>18</yPos>
+				<xSize>4.5</xSize>
+				<ySize>2</ySize>
+				<schedulable>false</schedulable>
+			</room>
+			<room id="T102">
+        <calendarId>aqrn22vhq940d06i0tbq8vdnls@group.calendar.google.com</calendarId>
+				<xPos>40</xPos>
+				<yPos>54</yPos>
+				<xSize>5</xSize>
+				<ySize>1</ySize>
+				<schedulable>true</schedulable>
+			</room>
+		</floor>
+		<floor id="2f">
+			<image>t2f.png</image>
+			<room id="T201">
+        <calendarId></calendarId>
+				<xPos>50</xPos>
+				<yPos>50</yPos>
+				<xSize>4.5</xSize>
+				<ySize>2</ySize>
+				<schedulable>false</schedulable>
+			</room>
+			<room id="T202">
+        <calendarId></calendarId>
+        <xPos>50</xPos>
+				<yPos>40</yPos>
+				<xSize>5</xSize>
+				<ySize>1</ySize>
+				<schedulable>true</schedulable>
+			</room>
+		</floor>
+	</building>
+	<building id="CA">
+		<floor id="1f">
+			<image>ca1f.png</image>
+			<room id="CA101">
+        <calendarId></calendarId>
+        <xPos>50</xPos>
+				<yPos>50</yPos>
+				<xSize>4.5</xSize>
+				<ySize>2</ySize>
+				<schedulable>false</schedulable>
+			</room>
+			<room id="CA102">
+        <calendarId></calendarId>
+        <xPos>50</xPos>
+				<yPos>40</yPos>
+				<xSize>5</xSize>
+				<ySize>1</ySize>
+				<schedulable>true</schedulable>
+			</room>
+		</floor>
+		<floor id="2f">
+			<image>ca2f.png</image>
+			<room id="CA201">
+        <calendarId></calendarId>
+        <xPos>50</xPos>
+				<yPos>50</yPos>
+				<xSize>4.5</xSize>
+				<ySize>2</ySize>
+				<schedulable>false</schedulable>
+			</room>
+			<room id="CA202">
+        <calendarId></calendarId>
+        <xPos>50</xPos>
+				<yPos>40</yPos>
+				<xSize>5</xSize>
+				<ySize>1</ySize>
+				<schedulable>true</schedulable>
+			</room>
+		</floor>
+	</building>
+</data>

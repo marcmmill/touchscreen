@@ -1,0 +1,9 @@
+DESKTOP APPLICATION
+
+1. Create Google account 
+2. Enable Google Calendar API
+3. Create and download OAuth 2.0 Client ID .json
+4. Rename Client ID to "client_id.json"
+5. Move the JSON to the root of the runnable JAR
+
+-----------------------------------------------------------------
